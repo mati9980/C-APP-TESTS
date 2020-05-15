@@ -52,4 +52,6 @@ I made 38 tests.</p>
 <p>Project is: Done</p>
 <h2 id="contact">Contact</h2>
 <p>Created by <a href="https://github.com/mati9980">mati9980</a> - feel free to contact me!</p>
+* [Maciej](https://github.com/xyanteos/ZadaniaRozne-Testowane)
+* [Maksymilian](https://github.com/TonierZeus/App-Test-NUnit)
 
