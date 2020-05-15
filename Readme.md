@@ -30,7 +30,7 @@ App include classes:</p>
 <li>Przychodnia</li>
 </ul>
 <blockquote>
-<p>All of them was tested.<br>
+<p>All of them were tested.<br>
 I made 38 tests.</p>
 </blockquote>
 <h2 id="screenshots">Screenshots</h2>
